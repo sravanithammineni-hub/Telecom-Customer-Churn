@@ -41,4 +41,11 @@ business recommendations.
 - Encourage auto-pay methods
 - Improve customer support
 
-## 📂 Project Structure
+## 📁 Project Structure
+Telecom-Customer-Churn/
+├── data/ – Dataset used for analysis  
+├── notebooks/ – EDA and ML model development  
+├── dashboards/ – Power BI dashboard file  
+├── visualizations/ – Charts and dashboard screenshots  
+├── Results/ – Model evaluation results and reports  
+├── README.md – Project documentation
